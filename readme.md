@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construído do Aula da Driven Education .
+Projeto construído da Aula da Driven Education .
 
 [🔗 Clique aqui para acessar](https://lineeiko.github.io/pagina-de-links/)
 
